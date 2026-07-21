@@ -1,0 +1,5 @@
+typer>=0.12
+yfinance>=0.2.40
+streamlit>=1.36
+pandas>=2.0
+pytest>=8.0
